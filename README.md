@@ -31,8 +31,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/MohammedFaizal05/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/120553195/14d86d18-9fbf-430d-a7b3-f75d35bf186a)
+
+### Name: Mohammed Faizal.J
+ 
+### Register Number: 212222100027
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
